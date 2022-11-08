@@ -2,6 +2,6 @@
 Console.WriteLine("Branch TEXT");
 Console.WriteLine("Branch TEXT");
 Console.WriteLine("Branch TEXT");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Branch TEXT2");
+Console.WriteLine("Branch TEXT2");
 Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
